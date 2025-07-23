@@ -1,0 +1,28 @@
+
+@font-face {
+    font-family: 'Roboto Condensed';
+    src: url('../fonts/robotocondensed-regular-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto Condensed';
+    src: url('../fonts/robotocondensed-bold-webfont.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto Condensed';
+    src: url('../fonts/robotocondensed-greek-regular-webfont.woff') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+	unicode-range: U+0370-03FF;
+}
+
+@font-face {
+    font-family: 'Roboto Condensed';
+    src: url('../fonts/robotocondensed-greek-bold-webfont.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+	unicode-range: U+0370-03FF;
+}
